@@ -1,0 +1,2 @@
+# IXI2020_Kunal
+"Training and Placement cell" This project is aimed at developing an application for the Training and Placement Dept. of the college the system is  a online application that can be accessed throughout   the organization as well as outside the organization with a Login and password. student can uplod their CV and others information so that company can check their profile to recurring them .
